@@ -1,5 +1,7 @@
 # ai
 
+https://docs.llamaindex.ai/en/stable/community/integrations/trulens.html links to medium and examples
+
 https://github.com/emarco177/llamaindex-documentation-helper
 
 https://github.com/jbergant/LlamaIndexCourse
