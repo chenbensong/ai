@@ -2,6 +2,8 @@
 
 https://docs.llamaindex.ai/en/stable/community/integrations/trulens.html links to medium and examples
 
+https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc
+
 https://github.com/emarco177/llamaindex-documentation-helper
 
 https://github.com/jbergant/LlamaIndexCourse
