@@ -1,5 +1,7 @@
 # ai
 
+https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930
+
 https://docs.llamaindex.ai/en/stable/community/integrations/trulens.html links to medium and examples
 
 https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc
