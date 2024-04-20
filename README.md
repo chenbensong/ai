@@ -17,3 +17,5 @@ https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-
 https://github.com/run-llama/llama_index/blob/main/docs/examples/param_optimizer/param_optimizer.ipynb
 
 https://stackoverflow.com/questions/77069008/llama-70b-on-hugging-face-inference-api-endpoint-short-responses
+
+https://towardsdatascience.com/advanced-retriever-techniques-to-improve-your-rags-1fac2b86dd61
