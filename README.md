@@ -19,3 +19,5 @@ https://github.com/run-llama/llama_index/blob/main/docs/examples/param_optimizer
 https://stackoverflow.com/questions/77069008/llama-70b-on-hugging-face-inference-api-endpoint-short-responses
 
 https://towardsdatascience.com/advanced-retriever-techniques-to-improve-your-rags-1fac2b86dd61
+
+https://medium.com/@mikldd/ml-gen-ai-for-data-teams-b38d6f07c28e
