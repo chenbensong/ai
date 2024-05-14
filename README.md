@@ -21,3 +21,5 @@ https://stackoverflow.com/questions/77069008/llama-70b-on-hugging-face-inference
 https://towardsdatascience.com/advanced-retriever-techniques-to-improve-your-rags-1fac2b86dd61
 
 https://medium.com/@mikldd/ml-gen-ai-for-data-teams-b38d6f07c28e
+
+https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2
