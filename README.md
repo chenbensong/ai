@@ -23,3 +23,5 @@ https://towardsdatascience.com/advanced-retriever-techniques-to-improve-your-rag
 https://medium.com/@mikldd/ml-gen-ai-for-data-teams-b38d6f07c28e
 
 https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2
+
+nursery https://medium.com/@TheDigitalMaverick/unsaturated-way-to-make-750-a-day-copy-me-b4ced2aa602d
